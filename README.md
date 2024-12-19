@@ -26,3 +26,5 @@ This project explores the affordability of a healthy diet and its relationship w
 3. Identify key factors influencing high food prices.
 4. Understand the health implications of unaffordable diets.
 5. Provide evidence-based recommendations to policymakers and stakeholders to address high food prices, enhance diet affordability, and improve public health outcomes.
+
+
