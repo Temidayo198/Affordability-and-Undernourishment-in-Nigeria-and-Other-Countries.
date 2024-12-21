@@ -29,7 +29,7 @@ This project explores the affordability of a healthy diet and its relationship w
 
 ### Data Source
 ---
-This 
+The dataset used for this analysis was obtained from Amdor Analytics. It includes metrics on food affordability, undernourishment, and employment sectors
 
 
 ![Screenshot (71)](https://github.com/user-attachments/assets/7e205d4f-12b9-4c67-bb2e-be55402321d3)
