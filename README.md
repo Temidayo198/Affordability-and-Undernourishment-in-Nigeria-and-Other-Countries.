@@ -31,5 +31,27 @@ This project explores the affordability of a healthy diet and its relationship w
 ---
 The dataset used for this analysis was obtained from Amdor Analytics. It includes metrics on food affordability, undernourishment, and employment sectors
 
+### Tool Used
+---
+- PowerBI
+  
+1. Data Integration
+2. Data Transformation
+3. Data Visualization
+
+###  Data Analysis Process
+---
+
+Data Integration: This involve downloading the dataset as excel file and uploading it into PowerBI.
+
+Data Transformation: Once the data was loaded, I cleaned my dataset using Power Query Editor.
+
+Data Visualization: The use of various visual elements (charts, graphs, cards) to represent data visually.
 
 ![Screenshot (71)](https://github.com/user-attachments/assets/7e205d4f-12b9-4c67-bb2e-be55402321d3)
+
+### Results
+---
+
+### Actionable Insights
+---
