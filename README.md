@@ -11,9 +11,9 @@
 
 [Data Analysis Process](#data-analysis-process)
 
-[Results](#results)
-
 [Actionable Insights](#actionable-insights)
+
+[Country-Specific Actions and Recommendations](#country-specific-actions-and-recommendations)
 
 ### Project Overview
 ---
@@ -50,23 +50,67 @@ Data Visualization: The use of various visual elements (charts, graphs, cards) t
 
 ![Screenshot (71)](https://github.com/user-attachments/assets/7e205d4f-12b9-4c67-bb2e-be55402321d3)
 
-### Results
----
-1. **`Annual Cost of a Healthy Diet by Country`**:
-   - **`Nigeria`** has the highest annual cost of a healthy diet, exceeding **`$7,000`** annually.
-   - **`The United States`** follows closely, with close to **`$6,000`** while **`The United Kingdom`** has the lowest cost.
-   - This suggests that despite being a low-income country, the cost of maintaining a healthy diet in Nigeria is disproportionately high, likely due t0 inefficient food systems, high import reliance or inflation.
 
-2. **`Population Unable to Afford a Healthy Diet by Country`**:
-   - In **`Nigeria`** a staggering **`97.9%`** of the population cannot afford a healthly diet compared to negligible percentages inn the **`US and UK`**. This highlights extreme affordability issues and reflects widespread poverty and inequality in Nigeria.
-
-3. **`Prevalence of Undernourishment by Country`**:
-   - **`Nigeria`** also has the highest prevalence of undernourishment at **`76.08%`**, significantly higher than the **`US and UK`** both below 12%.
-
-4. **`Indicator of Food Price Anomalies (IFPA) by Country`**:
-   - **`Nigeria`** experiences significant food price anomalies over the years, showing greater price instability compared to the **`US and UK`**. This price votality contributes to NIgeria's high cost of a healthy diet and prevalence of undernourishment.
-
-5. **`Sum of Employment in Agriculture, Industry and Service by Country`**:
-   - 
 ### Actionable Insights
 ---
+
+ **1. Cost of a Healthy Diet per Year**
+
+- **Nigeria:** The cost of a healthy diet is significantly higher relative to average income, making it unaffordable for a large portion of the population.
+- **USA:** The cost is comparatively lower as a percentage of income, making nutritious diets more accessible to most households.
+
+**2. Indicator of Food Price Anomalies**
+- **Nigeria:**: Food price anomalies occur frequently, driven by supply chain disruptions, inflation, and environmental factors.
+- **USA:** Food prices are more stable, though occasional anomalies are influenced by external factors like global market shifts.
+
+ **3. Share of the Population Who Cannot Afford a Healthy Diet**
+- **Nigeria:** A significant proportion of the population cannot afford a healthy diet, contributing to widespread undernourishment.
+- **USA:** A smaller share of the population struggles with affordability due to economic safety nets and lower relative food costs.
+
+**4. Prevalence of Undernourishment**
+- **Nigeria:** Undernourishment rates are high, driven by the inability to afford healthy diets and limited access to food.
+- **USA:** Undernourishment is rare but still present among certain low-income or marginalized populations.
+
+ **5. Percentage of Employment in Different Sectors**
+- **Nigeria:** A large workforce in agriculture does not translate to improved food affordability due to inefficiencies and limited industrial growth.
+- **USA:** A balanced employment distribution across industry and services contributes to economic resilience and greater purchasing power.  
+  
+---
+
+### **Country-Specific Actions and Recommendations**
+
+### **Actions**
+
+#### **Nigeria**
+1. Implement financial assistance programs (e.g., food vouchers, cash transfers) for low-income households.
+2. Promote local food production to reduce reliance on expensive imports.
+3. Establish price stabilization mechanisms like buffer stock programs and import/export regulations.
+4. Strengthen food storage and distribution infrastructure to reduce supply chain disruptions.
+5. Invest in agricultural technology to increase productivity and lower food costs.
+
+#### **USA**
+1. Continue supporting financial assistance programs for low-income groups.
+2. Encourage public-private partnerships to create affordable, nutritious food options.
+3. Implement price stabilization measures to prevent sudden food price fluctuations.
+4. Invest in food storage and distribution systems to minimize supply chain disruptions.
+5. Expand community-based nutrition programs to reach underserved populations.
+
+---
+
+### **Recommendations**
+
+#### **Nigeria**
+1. Governments should incentivize farmers to produce diverse, nutrient-rich crops.
+2. Policymakers should regulate market prices for essential food items.
+3. Focus on expanding school feeding programs to improve child nutrition.
+4. Strengthen vocational training to upskill workers and increase job opportunities.
+5. Collaborate with NGOs to distribute affordable food packages in underserved areas.
+
+#### **USA**
+1. Develop local initiatives like urban farming to improve food access in cities.
+2.. Encourage private businesses to lower food production costs to benefit low-income households.
+3. Implement policies to prevent food price volatility and support price stabilization.
+4. Strengthen partnerships between the public and private sectors to improve food affordability.
+
+---
+
